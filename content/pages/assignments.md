@@ -12,21 +12,195 @@ Apart from doing the weekly [Readings]({{< baseurl >}}/pages/readings), students
 
 They will then write a one page paper explaining why they chose that work of art. Finally, they will create a video that will explore to what extent the work they selected would have been different if it were an American one. The video should be 5 min maximum, and students are strongly encouraged to submit their 1 page outline before they start recording the video. The video will be submitted two weeks before the end of classes.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Is There French Theory in This Class? | Choice of oral presentation topic due |
-| {{< td-colspan 3 >}}**Leaving Repressive Society**{{< /td-colspan >}} |||
-| 2 | Judging the War, Rebuilding a Nation | Short answer question: Is death penalty worse than life sentence and why? |
-| 3 | The Genesis of May 1968 | Short answer question: Is entertainment the new "opium of the people?" |
-| 4 | Revolution and its Outsiders: Women, Migrants, Sexual Minorities | Short answer question: If you had to stage a revolution, what would you do first? |
-| 5 | The Capitalist Machine: Society as Prison | Short answer question: Is surveillance desirable in a democracy? |
-| {{< td-colspan 3 >}}**Cultural Taste, National Identity**{{< /td-colspan >}} |||
-| 6–7 | Cultural Mythologies | Visit: Museum of Fine Arts |
-| 7 | The Idea of Europe | Submit individual research paper plan |
-| 8 | "Parlez-vous français?" The New Politics of Language | Short answer question: Do you think migrants have to speak French to become French citizens? |
-| 9 | Social Distinction | Short answer question: Do you consider yourself educated and why? |
-| {{< td-colspan 3 >}}**Beyond Liberation**{{< /td-colspan >}} |||
-| 10 | Feminist and LGBT Politics: the Ethics of Ambiguities | Short answer question: Is surrogacy against women's rights? |
-| 11 | Communities and Anticommunitarianism | Video project due |
-| 12 | Postcolonial France | &nbsp; |
-| 13 | Video Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Is There French Theory in This Class?
+{{< tdclose >}}
+{{< tdopen >}}
+Choice of oral presentation topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Leaving Repressive Society**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Judging the War, Rebuilding a Nation
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Is death penalty worse than life sentence and why?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Genesis of May 1968
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Is entertainment the new "opium of the people?"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Revolution and its Outsiders: Women, Migrants, Sexual Minorities
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: If you had to stage a revolution, what would you do first?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Capitalist Machine: Society as Prison
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Is surveillance desirable in a democracy?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cultural Taste, National Identity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Mythologies
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: Museum of Fine Arts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Idea of Europe
+{{< tdclose >}}
+{{< tdopen >}}
+Submit individual research paper plan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+"Parlez-vous français?" The New Politics of Language
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Do you think migrants have to speak French to become French citizens?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Social Distinction
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Do you consider yourself educated and why?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Beyond Liberation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Feminist and LGBT Politics: the Ethics of Ambiguities
+{{< tdclose >}}
+{{< tdopen >}}
+Short answer question: Is surrogacy against women's rights?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Communities and Anticommunitarianism
+{{< tdclose >}}
+{{< tdopen >}}
+Video project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Postcolonial France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Video Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
